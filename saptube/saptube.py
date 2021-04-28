@@ -2,11 +2,12 @@ import webbrowser
 text="""<!DOCTYPE html>
     <head>
         <link rel="stylesheet" type="text/css" href="style.css">
+        <title>SAPTUBE &#127909;</title>
     </head>
     <body>
         <h1>SAPTUBE &#127909;</h1>
         <div class="container">
-            <iframe id="yt-player" src="{}" frameborder="5"></iframe>
+            <iframe id="yt-player" src="{}" frameborder="5" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 	</div>            
 	<span class="author">Made by <a href="">MASTERMIND</a>.</span>
     </body>
