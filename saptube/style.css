@@ -30,3 +30,15 @@ span.author {
     font-weight: 400;
     color: red;
 }
+
+summary{
+    font-family:  "Algerian";
+    font-weight: 400;
+    color: red;
+}
+details{
+margin-top: 2rem;
+font-family:  "Arial";
+font-weight: 400;
+color: violet;
+}
